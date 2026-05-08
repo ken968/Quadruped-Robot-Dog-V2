@@ -1,0 +1,52 @@
+{
+  "IDLE": {
+    "cmd": " ",
+    "mode": "manual"
+  },
+  "MAJU": {
+    "cmd": "W",
+    "mode": "manual"
+  },
+  "KANAN": {
+    "cmd": "D",
+    "mode": "manual"
+  },
+  "KIRI": {
+    "cmd": "A",
+    "mode": "manual"
+  },
+  "MUNDUR": {
+    "cmd": "S",
+    "mode": "manual"
+  },
+  "DUDUK": {
+    "cmd": "E",
+    "mode": "manual"
+  },
+  "TIDUR": {
+    "cmd": "Q",
+    "mode": "manual"
+  },
+  "MANUAL": {
+    "mode": "manual"
+  },
+  "AUTOPILOT": {
+    "cmd": "p",
+    "mode": "auto"
+  },
+  "BERHENTI": {
+    "cmd": " ",
+    "mode": "manual",
+    "ledAktif": false
+  },
+  "LEDON": {
+    "cmd": "1",
+    "mode": "manual",
+    "ledAktif": true
+  },
+  "LEDOFF": {
+    "cmd": "0",
+    "mode": "manual",
+    "ledAktif": false
+  }
+}
